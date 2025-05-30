@@ -1,0 +1,13 @@
+{
+  "name": "1er-proyecto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Elias",
+  "license": "MIT",
+  "description": "nuse"
+}
